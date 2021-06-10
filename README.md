@@ -1,4 +1,4 @@
-# coockieStealer
+# CookieStealer
 A simple cookie stealer coded in python
 
 ## Example payload:
