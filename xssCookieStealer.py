@@ -14,7 +14,7 @@ class bcolors:
     UNDERLINE = '\033[4m'
 
 
-hostName = "192.168.1.145"
+hostName = "0.0.0.0"
 serverPort = 2121
 
 class MyServer(BaseHTTPRequestHandler):
